@@ -24,7 +24,7 @@ jobs:
         uses: actions/upload-pages-artifact@v3
         with:
           # Ganti tulisan di bawah ini sesuai nama folder web Anda (misal: ./web portofolio2)
-          path: './web-penjualan-bunga'
+          path: './web-jual-bunga'
 
       - name: Deploy to GitHub Pages
         id: deployment
